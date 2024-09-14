@@ -14,6 +14,6 @@
  
  🌱 I’m currently learning **Python, SQL, AWS**
 
-💬 Ask me about **Python, SQL, Machine Learning... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, SQL, Machine Learning... or anything [here])**
 
 ⚡ Fun fact **I like Gaming, helps in Team Communication**
