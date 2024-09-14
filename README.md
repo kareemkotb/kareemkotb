@@ -5,18 +5,15 @@
 </h1>
 
 <div align="center">
+<h3 align="center">A passionate Data Scientist from Egypt </h3>
 
-<!--
-**kareemkotb/kareemkotb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+🔭 I’m currently working on **Ecomerg**
+ 
+ 🌱 I’m currently learning **Python, SQL, AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **Python, SQL, Machine Learning... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **I like Gaming, helps in Team Communication**
