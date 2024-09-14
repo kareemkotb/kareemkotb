@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-🔭 I’m currently working on **Ecomerg**
+🔭 I’m currently working in a company called Ecomerg
  
  🌱 I’m currently learning **Python, SQL, AWS**
 
